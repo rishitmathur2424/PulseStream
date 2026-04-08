@@ -13,7 +13,6 @@
 - **Hero Section** - Eye-catching header with pink/purple neon imagery
 
 ### Event Detail Page
-- **Twitch-Style Layout** - Professional streaming interface
 - **Responsive Video Container** - Embedded live streams and event trailers
 - **Live Chat UI** - Interactive chat sidebar with messages and emojis
 - **Event Information** - Host details, viewer counts, schedules, and descriptions
