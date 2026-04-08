@@ -182,16 +182,6 @@ If not, update Node.js from [nodejs.org](https://nodejs.org/)
 | `npm run preview` | Preview production build |
 | `npm run lint` | Run ESLint for code quality |
 
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a new branch: `git checkout -b feature/YourFeature`
-3. Make your changes
-4. Commit: `git commit -m 'Add some feature'`
-5. Push: `git push origin feature/YourFeature`
-6. Open a Pull Request
 
 
 ## 📧 Contact
